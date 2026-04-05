@@ -1,4 +1,4 @@
-# Fog-Based IoT Intrusion Detection System (IDS)
+# FogGuard: Smart IoT Security System
 
 ## Overview
 This project implements a **Fog Computing-based Intrusion Detection System (IDS)** using **ESP32 and Raspberry Pi**.  
